@@ -16,8 +16,9 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 '''
-wimm, What's in my music.  Displays the various ID3 v2 tag frames in an
-mp3 file.
+What's In My Music (wimm)  
+
+Displays the various ID3 v2 tag frames in an mp3 file.
 '''
 
 import eyeD3

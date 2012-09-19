@@ -1,16 +1,16 @@
-# About #
+# About
 
-This script will read and display the ID3 v2 frames present in an mp3 file.
+What's in My Music (wimm) will read and display the ID3 v2 frames present in an mp3 file.
 
-# Dependencies #
+# Dependencies
 
 The eyeD3 library is required and available at [http://eyed3.nicfit.net](http://eyed3.nicfit.net "http://eyed3.nicfit.net").
 
-# License #
+# License
 
 Since the eyeD3 library is licensed under the GPLv2, so is this script.  See LICENSE file for the license.
 
-# Usage #
+# Usage
 
 	usage: wimm.py [-h] file [file ...]
 	
